@@ -25,7 +25,7 @@ if (isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true) {
         <h2>Bienvenue sur le Planificateur de Fêtes</h2>
 
         <div class="form_container">
-            <h3>Connecte-toi</h3>
+            <h3>Connecte-toia</h3>
 
             <form action="login.php" method="post"> <!-- Traiter la connexion dans login.php -->
                 <div class="form-group">
